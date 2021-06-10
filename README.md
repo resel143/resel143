@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**resel143/resel143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for Job/Internship Opportunity in MERN, JAVA Development
 - 🌱 I’m currently learning Kotlin
