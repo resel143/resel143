@@ -10,7 +10,7 @@
 <a href="https://in.linkedin.com/in/reshul-wate-62b4b7176">
   <img align="left" alt="Reshul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=resel143.resel143)
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 <br />
 
 - 🔭 I’m currently looking for Job/Internship Opportunity in MERN, JAVA Development
