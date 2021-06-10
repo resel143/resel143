@@ -11,7 +11,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=resel143.resel143)
 
-<img align="center" src="asdf.png"/>
+<img align="center" src="asdf.png" width=100%/>
 
 <br />
 
