@@ -49,3 +49,4 @@ JSON         12 mins         ▒░░░░░░░░░░░░░░░░
 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=resel143&show_icons=true&theme=gotham" alt="reshulwate" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=resel143&show_icons=true&theme=react&locale=en&layout=demo" alt="Reshul's GitHub Streak Stats" width="45%" />
