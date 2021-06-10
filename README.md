@@ -45,8 +45,11 @@ CSS          42 mins         ▓░░░░░░░░░░░░░░░░
 JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
-
+<br /><br />
 📈 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=resel143&show_icons=true&theme=gotham" alt="reshulwate" />
+<p>
+  <br />&emsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=resel143&show_icons=true&theme=gotham" alt="reshulwate" width=45% />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=resel143&show_icons=true&theme=react&locale=en&layout=demo" alt="Reshul's GitHub Streak Stats" width="45%" />
+
+</p>
