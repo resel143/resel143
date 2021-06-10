@@ -15,9 +15,8 @@
 
 <br />
 
-- Hi, I'm [Reshul Wate](), a passionate self-taught Full Stack web developer and Aspiring SDE from India. 
-- My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-- I take great care in the experience, architecture, and code quality of the things I build.
+- Hi, I'm [Reshul Wate](), a passionate self-taught Full Stack web developer and Aspiring SDE from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Reading, exploring, Learning and Executing is my passion. 
+- Always ready to work on Real-Time Projects
 
 - 🔭 I’m currently looking for Job/Internship Opportunity in MERN, JAVA Development
 - 🌱 I’m currently learning Kotlin
