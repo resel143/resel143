@@ -4,7 +4,7 @@
 <a href="https://discord.gg/reshul">
   <img align="left" alt="Reshul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/ReshulW">
   <img align="left" alt="Reshul Wate | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://in.linkedin.com/in/reshul-wate-62b4b7176">
