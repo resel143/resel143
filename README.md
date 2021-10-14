@@ -23,7 +23,6 @@
 - 👯 I’m looking to collaborate on Open Source/ Freelancing
 - 💬 Tweet me ;} [here](https://twitter.com/ReshulW)
 - 💼 Any freelance work? Do reach, [email](mailto:reshulwate@gmail.com) :)
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="260" />
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,7 +47,6 @@ JSON         12 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <br /><br />
 📈 My GitHub Stats
-
 <p>
   <br />&emsp;
   <img src="https://github-readme-stats.vercel.app/api?username=resel143&show_icons=true&theme=gotham%22%20alt=%22reshulwate%22%20width=45%" />
