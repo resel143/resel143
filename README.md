@@ -47,7 +47,6 @@ JSON         12 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <br /><br />
 📈 My GitHub Stats
-
 <p>
   <br />&emsp;
   <img src="https://github-readme-stats.vercel.app/api?username=resel143&show_icons=true&theme=gotham%22%20alt=%22reshulwate%22%20width=45%" />
