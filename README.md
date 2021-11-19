@@ -8,7 +8,6 @@
 <a href="https://in.linkedin.com/in/reshul-wate-62b4b7176">
   <img align="left" alt="Reshul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=resel143.resel143)
 
 <img align="center" src="Banner.png" width=100%/>
