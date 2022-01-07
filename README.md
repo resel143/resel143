@@ -17,9 +17,9 @@
 - Hi, I'm [Reshul Wate](). I am a passionate self-taught Full Stack web developer and Aspiring SDE from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 - Reading, exploring, Learning and Executing is my passion. 
 - Always ready to work on Real-Time Projects, active on open-source enthusiast and maintainer. Love Open-source collaboration.
-- 🔭 I’m currently looking for ***Job/Internship Opportunity in MERN, JAVA Development***
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Open Source/ Freelancing
+- 🔭 I’m open for job/internship oportunity ***Software Developer***
+- 🌱 I have worked with Wesign Technologies, COSGrid Networks as SDE.
+- 👯 Proficient in ElectronJS, ReactJS, AngularJS, NodeJS, SQL, MongoDB, ExpressJS, C++, Java, Typescript
 - 💬 Tweet me ;} [here](https://twitter.com/ReshulW)
 - 💼 Any freelance work? Do reach, [email](mailto:reshulwate@gmail.com) :)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="260" />
