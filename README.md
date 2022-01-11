@@ -15,7 +15,8 @@
 <br />
 
 - Hi, I'm [Reshul Wate](). 
-- I am a passionate self-taught Full Stack web developer and Aspiring SDE from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.  
+- I am a passionate self-taught Full Stack web developer and Aspiring SDE from India. 
+- My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.  
 - Always ready to work on Real-Time Projects, active on open-source enthusiast and maintainer. Love Open-source collaboration.
 - 🔭 I’m open for job/internship oportunity ***Software Developer***
 - 🌱 I have worked with Wesign Technologies, COSGrid Networks as SDE.
