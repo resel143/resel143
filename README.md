@@ -16,13 +16,14 @@
 
 - Hi, I'm [Reshul Wate](). 
 - I am a passionate self-taught Full Stack web developer and Aspiring SDE from India. 
-- My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.  
-- Always ready to work on Real-Time Projects, active on open-source enthusiast and maintainer. Love Open-source collaboration.
+- My passion for software lies with putting up ideas and making them come true with elegant interfaces.  
+- 
 - 🔭 I’m open for job/internship oportunity ***Software Developer***
-- 🌱 I have worked with Wesign Technologies, COSGrid Networks as SDE.
-- 👯 Proficient in ElectronJS, ReactJS, AngularJS, NodeJS, SQL, MongoDB, ExpressJS, C++, Java, Typescript
+- 🌱 I have worked with  COSGrid Network and Wesign Technologies at the position of SDE.
+- 👯 Proficient in ElectronJS, AngularJS, ReactJS, NodeJS, SQL, MongoDB, ExpressJS, C++, Java, Typescript/Javascript
 - 💬 Tweet me ;} [here](https://twitter.com/ReshulW)
 - 💼 Any freelance work? Do reach, [email](mailto:reshulwate@gmail.com) :)
+- 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="260" />
 
 **Languages and Tools:**
@@ -35,22 +36,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
 
-<!--START_SECTION:waka-->
-```text
-ReactJS        21 hrs        ████████████████████░░░░░   79.46 %
-JavaScript   3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░    7.00% 
-JavaScript   3 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   6.46 % 
-HTML         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-CSS          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-```
 <!--END_SECTION:waka-->
 <br /><br />
 📈 My GitHub Stats
 <p>
   <br />&emsp;
   <img src="https://github-readme-stats.vercel.app/api?username=resel143&show_icons=true&theme=gotham%22%20alt=%22reshulwate%22%20width=45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=resel143&show_icons=true&theme=react&locale=en&layout=demo%22%20alt=%22Reshul%27s%20GitHub%20Streak%20Stats%22%20width=45%" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=resel143&show_icons=true&theme=react&locale=en&layout=demo%22%20alt=%22Reshul%27s%20GitHub%20Streak%20Stats%22%20width=100%" />
 </p>
