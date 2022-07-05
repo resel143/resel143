@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **VPN Desktop Application-ElectronJS**
 
-- 🌱 I’m currently learning **Go,Ionic-13**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **Software Development FrontEnd Development**
 
