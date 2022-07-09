@@ -5,7 +5,7 @@
 
 <img algn="center" src="Banner.png" width=100%/>
 
-- 🔭 I’m currently working on **VPN Desktop Application-ElectronJS**
+- 🔭 I’m currently working on **FOCII Desktop application with Machine Learning**
 
 - 🌱 I’m currently learning **Golang**
 
