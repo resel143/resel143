@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FOCII Desktop application with Machine Learning**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently working with Brain Alive @Noida Delhi
 
 - 👯 I’m looking to collaborate on **Software Development FrontEnd Development**
 
