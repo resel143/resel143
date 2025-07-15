@@ -5,19 +5,15 @@
 
 <img algn="center" src="Banner.png" width=100%/>
 
-- 🔭 I’m currently working on **FOCII Desktop application with Machine Learning**
+- 🔭 I’m currently working on **FOCII Chrome Extension**. Real time Engagement tracking on YT video watch.
 
-- 🌱 I’m currently working with Brain Alive @Noida Delhi
+- 🌱 I’m currently working with ***BrainAlive Research Pvt. Ltd.***
 
-- 👯 I’m looking to collaborate on **Software Development FrontEnd Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/resel143](https://github.com/resel143)
-
-- 💬 Ask me about **ElectronJS, AngularJS**
+- 👯 I’m looking to collaborate on **Software Development**
 
 - 📫 How to reach me **reshulwate@gmail.com**
 
-- ⚡ Fun fact **I am a fast typer!**
+- ⚡ Fun fact **I like to play Chess**
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="260" />
