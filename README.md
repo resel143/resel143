@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Reshul rizzeerrrrrrr </h1>
+<h1 align="center">Hello, I am Reshul Wate </h1>
 <h3 align="center">Passionate Software Developer and Problem Solver from India</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=resel143.resel143) 
