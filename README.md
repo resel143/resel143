@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Reshul Wate 👋</h1>
 <h3 align="center">Core Software Engineer | Full-Stack Engineer</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=resel143&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=resel143&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 <img align="center" src="RW_Banner.png" width="100%" />
 
