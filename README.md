@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=resel143.resel143) 
 
-<img algn="center" src="Banner.png" width=100%/>
+<img algn="center" src="RW_Banner.png" width=100%/>
 
 - 🔭 I’m currently working on **FOCII Chrome Extension**. Real time Engagement tracking on YT video watch.
 
