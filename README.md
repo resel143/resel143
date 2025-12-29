@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I am Reshul Wate 👋</h1>
 <h3 align="center">Core Software Engineer | Full-Stack Engineer</h3>
-
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=resel143.resel143" />
+  <img src="https://komarev.com/ghpvc/?username=resel143&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 <img align="center" src="RW_Banner.png" width="100%" />
 
 ---
