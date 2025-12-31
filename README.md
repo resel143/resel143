@@ -17,8 +17,7 @@
   **Email:** reshulwate@gmail.com  
   **Mobile:** +91-6266975418
 
-- ⚡ **Fun fact:** I play **Chess**, applying strategic thinking and long-term planning to software design.
-
+- ⚡ **Fun fact:** I play **Chess**
 ---
 
 <h3 align="left">Connect with me:</h3>
