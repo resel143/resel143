@@ -9,7 +9,7 @@
 
 - 🔭 **Actively seeking Senior Software Development Engineer opportunities**, with **4+ years of hands-on experience** building scalable, production-grade applications and real-time systems.
 
-- 🌱 **Previously worked with ITH Technologies, BrainAlive Research Pvt. Ltd., and COSGrid Networks**, contributing to **enterprise-grade and research-driven real-world applications**.
+- 🌱 **Industry expirence with ITH Technologies, BrainAlive Research Pvt. Ltd., and COSGrid Networks**, contributing to **enterprise-grade and research-driven real-world applications**.
 
 - 👯 **Open to collaborating on** challenging **software engineering roles** involving **full-stack development**, **browser-based products**, **real-time analytics**, and **AI-powered platforms**.
 
